@@ -21,6 +21,7 @@ document/
 
 # Ignore Jupyter Notebook checkpoints
 .ipynb_checkpoints/
+.gitignore
 
 # Ignore logs and temp files
 *.log
