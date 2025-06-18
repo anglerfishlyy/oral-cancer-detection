@@ -1,0 +1,46 @@
+# Ignore virtual environments
+venv/
+env/
+
+# Ignore Python cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Ignore dataset and document folders
+dataset/
+data/
+document/
+
+# Ignore model weights and checkpoints
+*.h5
+*.hdf5
+*.pt
+*.pth
+*.ckpt
+
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore logs and temp files
+*.log
+*.tmp
+*.temp
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore Visual Studio Code settings (optional)
+.vscode/
+
+# Ignore compiled files
+*.so
+*.o
+
+# Ignore static and media files (optional — if dynamically generated)
+staticfiles/
+media/
+
+# Ignore any requirements file backups
+*.bak
