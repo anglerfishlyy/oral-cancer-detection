@@ -1,7 +1,7 @@
 
 Flask
 gunicorn
-tensorflow-cpu
+
 pillow
 numpy
 Flask==3.1.1
