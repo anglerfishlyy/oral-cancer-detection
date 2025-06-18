@@ -30,3 +30,6 @@ This web application allows users (like healthcare professionals or students) to
 - ResNet152V2, MobileNet (CNN models)
 
 - Anaconda prompt
+
+## o/p
+![image](image.png)
