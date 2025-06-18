@@ -32,4 +32,7 @@ This web application allows users (like healthcare professionals or students) to
 - Anaconda prompt
 
 ## o/p
+
 ![image](image.png)
+
+![image2](image-1.png)
