@@ -45,4 +45,3 @@ media/
 
 # Ignore any requirements file backups
 *.bak
-req.txt
