@@ -15,7 +15,7 @@ matplotlib==3.9.2
 numpy==2.1.0
 tensorflow==2.20.0rc0
 keras==2.13.1
-tensorboard==2.13.0
+tensorboard==2.20.0
 tensorboard-data-server==0.7.2
 
 opt-einsum==3.3.0
