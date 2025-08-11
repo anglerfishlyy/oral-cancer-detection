@@ -6,7 +6,7 @@ requests==2.31.0
 
 # Image processing
 --only-binary=:all:
-Pillow==10.2.0
+Pillow==10.4.0
 
 matplotlib==3.9.2
 
